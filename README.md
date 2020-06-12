@@ -1,2 +1,2 @@
 # AndroidArchitecture
-An  Android  Architecture which  contains only one Activity and multiple fragments
+An  Android  Architecture which  contains single-activity and multiple fragments
